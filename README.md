@@ -15,10 +15,9 @@ Welcome to BEV Perception repository! We aim to study bird's-eye-view(BEV) perce
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"BEV Perception: 2D -> 3D projection"_  
-- BEV Perception의 
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
+- 2D 이미지 feature를 3D BEV로 projection 하는 방법 스터디
+- BEV representation에 대한 기술 리포트 제작
+- 2025 CVPR Challenge 참가
 
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
@@ -34,12 +33,13 @@ _"BEV Perception: 2D -> 3D projection"_
 gantt
     title 2025 AI 프로젝트 여정
     section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
-    MVP 개발        :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    section 부가 활동
-    기술 세미나     :2025-10-15, 7d
-    해커톤         :2025-11-20, 3d
+    BEV Representation 스터디       :a1, 2025-03-01, 90d
+    CVPR 첼린지 선정                 :b1, 2025-03-01, 1d
+    Background Research            :b2, after b1, 14d
+    IDEA                           :b3, after b2, 30d
+    Implementation                 :b4, after b1, 30d
+    Experiment                     :b5, after b4, 30d
+    Validation                     :b6, after b5, 2025-06-01
 ```
 
 
@@ -63,19 +63,11 @@ class CollaborationFramework:
 ```
 
 
-## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
-| 지표                     | 목표치 | 현재 달성률 |
-|--------------------------|--------|-------------|
-| 커밋 수                  | 주 1회  | 1%         |
-| 기술 블로그 게시물       | 주 1회   | 1편        |
-
-
 ## 💻 주차별 활동 (Activity History)
 
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
+| 2025/02/ | OT       | 조경호 |
 | 2025/02/ |  Part 1. | 미정 | 
 | 2025/02/ |  Part 2. | 미정 | 
 | 2025/02/ |  Part 3. | 미정 | 
@@ -83,11 +75,11 @@ class CollaborationFramework:
 | 2025/03/ |  Part 5. | 미정 | 
 
 
-
+<!-- 
 ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
 - (준비중)
-
+ -->
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
