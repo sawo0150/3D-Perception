@@ -1,6 +1,6 @@
-# BEV Perception
+# 3D Perception
 
-<h1 align="center"> BEV Perception </h1>
+<h1 align="center"> 3D Perception </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -11,7 +11,7 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-Welcome to BEV Perception repository! We aim to study bird's-eye-view(BEV) perception method for autonomous driving, offering tools and frameworks for view transformation, sensor fusion, and 3D perception. Join us in advancing the field of autonomous driving perception through open collaboration and innovation!
+Welcome to 3D Perception repository! We aim to study bird's-eye-view(BEV) perception method for autonomous driving, offering tools and frameworks for view transformation, sensor fusion, and 3D perception. Join us in advancing the field of autonomous driving perception through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"BEV Perception: 2D -> 3D projection"_  
