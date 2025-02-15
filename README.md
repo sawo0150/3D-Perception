@@ -24,13 +24,20 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 - 스터디 한 내용을 기록으로 남기기
 
 ### 3️⃣ Project: 2025 CVPR Challenge
+
+<div align="center">
+<img src="figs/cvpr2025_logo.png" width="500">
+</div>
+
 - CVPR 챌린지 참가하며 BEV representation을 직접 구현
 
 
 ## 🤗 역동적인 팀 소개 (Dynamic Team)
 
+<div align="center">
+
 | 역할          | 이름 |  기술 스택                                                                 | 주요 관심 분야                          |
-|---------------|------|-----------------------------------------------------------------------|----------------------------------------|
+|:---------------:|:------:|:-----------------------------------------------------------------------:|:----------------------------------------:|
 | **Project Manager** | 조경호 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 자율주행/3D Vision |
 | **Member** | Your name | Anything |  |
 | **Member** | Your name | Anything |  |
@@ -39,18 +46,21 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | **Member** | Your name | Anything |  |
 
 
+</div>
 
 ## 📅 주차별 활동 (Activity History)
 
+<div align="center">
+
 | 날짜 | 내용 | 발표자 | 링크 |
-| ---------- | -------- | ---- | -------|
+| :--------: | -------- | :--: | :-----: |
 | 2025/03/04 |  OT      | 조경호 | |
 | 2025/03/11 |  Part 1. | 미정 | |
 | 2025/03/18 |  Part 2. | 미정 | |
 | 2025/03/25 |  Part 3. | 미정 | |
 | 2025/04/01 |  Part 4. | 미정 | |
 | 2025/04/08 |  Part 5. | 미정 | |
-
+</div>
 
 ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
