@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 
 
->3D Perception에 오신 여러분을 환영합니다! 우리는 View Transformation을 통해 2D feature를 3D로 Projection 표현하는 방법에 대해 스터디 할 것 입니다. BEV representation의 연구 동향을 공유하고, 구현과정에서의 어려움(e.g. mmcv)을 함께 해결하여 생산성을 향상시키고자 합니다. 추가적으로 스터디에서 공부한 내용을 바탕으로 2025 CVPR 챌린지에 참가하는 것을 목표로 하고 있습니다!
+>3D Perception에 오신 여러분을 환영합니다! 우리는 View Transformation을 통해 2D feature를 3D로 Projection 하는 방법에 대해 스터디 할 것입니다. BEV representation의 연구 동향을 파악하고, 구현 과정에서의 어려움(e.g. MMCV)을 함께 해결하여 생산성을 향상시키고자 합니다. 추가적으로 스터디에서 공부한 내용을 바탕으로 2025 CVPR 챌린지에 참여하는 것을 목표로 하고 있습니다!
 
 ## 🌟 프로젝트 개요 (Project Overview)
 ### 1️⃣ Study: BEV Representation
