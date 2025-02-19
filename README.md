@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 ### 3️⃣ Project: 2025 CVPR Challenge*
 
 <div align="center">
-<img src="figs/cvpr2025_logo.png" width="500">
+<img src="https://github.com/user-attachments/assets/8b305d88-1db7-4c40-aa81-dd134c8187b6" width="500">
 </div>
 
 - CVPR 챌린지 참가하며 BEV representation을 직접 구현
