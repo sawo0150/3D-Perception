@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | 날짜 | 내용 | 발표자 |
 | :--------: | ---- | :----: |
 | 2025/03/03 | OT | 조경호 |
-| 2025/03/10 | [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/abs/2312.00703) | TBD |
+| 2025/03/10 | [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/abs/2312.00703) | 조경호 |
 | 2025/03/17 | [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D](https://arxiv.org/abs/2008.05711) | TBD |
 | 2025/03/24 | ✨Magical Week✨ |  |
 | 2025/03/31 | [BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View](https://arxiv.org/abs/2112.11790) | TBD |
