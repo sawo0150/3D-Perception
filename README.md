@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 
 
->**BEV(Bird's-eye View) representation 이란?** 2D 이미지 feature를 3D로 projection 하여 BEV feature를 추출하는 연구 분야입니다. 저희는 스터디를 통해 BEV representation에 대해 깊이 탐구하고, 구현 과정에서의 어려움(e.g. MMCV)을 함께 해결하며 성장하는 것을 목표로 합니다. 2025 CVPR 챌린지에 참여하며 BEV representation을 이용한 프로젝트도 진행할 예정입니다!
+>**BEV(Bird's-eye View) representation 이란?** 2D 이미지 feature를 3D로 projection 하여 BEV feature를 추출하는 연구 분야입니다. 저희는 스터디를 통해 BEV representation을 깊이 탐구하고, 구현 과정에서의 어려움(e.g. MMCV)을 함께 해결하며 성장하는 것을 목표로 합니다. 2025 CVPR 챌린지에 참여하며 BEV representation을 이용한 프로젝트도 진행할 예정입니다!
 
 ## 🌟 프로젝트 개요 (Project Overview)
 ### 1️⃣ Study: BEV Representation
