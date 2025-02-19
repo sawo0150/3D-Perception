@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 
 
->**BEV(Bird's-eye View) representation 이란?** 2D 이미지 feature를 3D로 projection 하여 BEV feature를 추출하는 task입니다. 저희는 스터디를 통해 BEV representation의 연구 동향을 파악하고, 구현 과정에서의 어려움(e.g. MMCV)을 함께 해결하며 빠르게 성장하고자 합니다. 추가적으로 스터디에서 공부한 내용을 바탕으로 2025 CVPR 챌린지에 참여하는 것을 목표로 하고 있습니다!
+>**BEV(Bird's-eye View) representation 이란?** 2D 이미지 feature를 3D로 projection 하여 BEV feature를 추출하는 연구 분야입니다. 저희는 스터디를 통해 BEV representation에 대해 깊이 탐구하고, 구현 과정에서의 어려움(e.g. MMCV)을 함께 해결하며 성장하는 것을 목표로 합니다. 2025 CVPR 챌린지에 참여하며 BEV representation을 이용한 프로젝트도 진행할 예정입니다!
 
 ## 🌟 프로젝트 개요 (Project Overview)
 ### 1️⃣ Study: BEV Representation
@@ -75,6 +75,8 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | 2025/05/05 | [BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation](https://arxiv.org/abs/2205.13542) | TBD |
 | 2025/05/17 | 🎉Pseudo Conference🎉 |  |
 | 2025/05/19 | [GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](https://arxiv.org/abs/2407.14108) | TBD |
+| 2025/05/26 |  | TBD |
+| 2025/06/02 |  | TBD |
 </div>
 <sub>*PseudoCon과 Magical Week는 가짜연구소 행사이므로 해당 주간은 스터디를 진행하지 않습니다!</sub>
 
