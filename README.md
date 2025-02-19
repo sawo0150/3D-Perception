@@ -64,7 +64,8 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 ---
 
 ## 📅 주차별 활동
-
+- 장소: PseudoLab Discord Room-YL
+- 시간: 월요일 21시*
 <div align="center">
 
 | 날짜 | 내용 | 발표자 |
@@ -84,7 +85,11 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | 2025/05/26 |  | TBD |
 | 2025/06/02 |  | TBD |
 </div>
-<sub>*PseudoCon과 Magical Week는 가짜연구소 행사이므로 해당 주간은 스터디를 진행하지 않습니다!</sub>
+<sub>
+  *모든 구성원이 동의 한다면 시간 조정가능 합니다.
+  
+  **PseudoCon과 Magical Week는 가짜연구소 행사이므로 해당 주간은 스터디를 진행하지 않습니다!
+</sub>
 
 
 
