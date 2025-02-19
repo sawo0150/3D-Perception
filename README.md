@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | 2025/05/19 | [GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](https://arxiv.org/abs/2407.14108) | TBD |
 | 2025/05/26 |  | TBD |
 | 2025/06/02 |  | TBD |
-| 2025/06/11 | The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (???) | TBD |
+| 2025/06/11 | **The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (???)** | TBD |
 </div>
 <sub>*모든 구성원이 동의 한다면 시간 조정가능 합니다.</sub>
 
