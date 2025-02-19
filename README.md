@@ -24,7 +24,9 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 >**BEV(Bird's-eye View) representation 이란?** 2D 이미지 feature를 3D로 projection 하여 BEV feature를 추출하는 연구 분야입니다. 저희는 스터디를 통해 BEV representation을 깊이 탐구하고, 구현 과정에서의 어려움(e.g. MMCV)을 함께 해결하며 성장하는 것을 목표로 합니다. 2025 CVPR 챌린지에 참여하며 BEV representation을 이용한 프로젝트도 진행할 예정입니다!
 
-## 🌟 프로젝트 개요 (Project Overview)
+---
+
+## 🌟 프로젝트 개요
 ### 1️⃣ Study: BEV Representation
 - 2D 이미지 feature를 3D BEV로 projection 하는 방법에 대한 스터디
 - 3D Perception task(3D Detection, Map segmentation)에 적용하는 방법 스터디
@@ -40,9 +42,11 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 </div>
 
 - CVPR 챌린지 참가하며 BEV representation을 직접 구현
-- 참여하는 챌린지는 OT에서 공개할 예정입니다.
+- 참여하는 챌린지는 OT에서 공개할 예정입니다
 
-## 🤗 역동적인 팀 소개 (Dynamic Team)
+---
+
+## 🤗 팀 소개
 
 <div align="center">
 
@@ -57,7 +61,9 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 </div>
 
-## 📅 주차별 활동 (Activity History)
+---
+
+## 📅 주차별 활동
 
 <div align="center">
 
@@ -87,8 +93,9 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 - Youtube(준비중)
 - Blog-->
 
+---
 
-## 🌱 참여 안내 (How to Engage)
+## 🌱 참여 안내
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
 - 링크(2/19일 공개)
 - 자율주행 or 컴퓨터 비전 분야에 관심이 있는 분을 찾습니다!
