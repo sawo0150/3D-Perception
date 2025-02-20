@@ -44,7 +44,9 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 - CVPR 챌린지 참가하며 BEV representation을 직접 구현
 - Linux 환경에서 Python, Pytorch를 이용하여 프로젝트 진행
 
-<sub>*참여하는 챌린지는 OT에서 공개할 예정입니다</sub>
+<sub>*참여하는 챌린지는 OT에서 공개할 예정입니다.</sub>
+
+<sub>**대회 리스트에 Perception task가 없어 End-to-end task로 참가할 예정입니다.(BEV backbone을 이용한 End-to-end method)</sub>
 
 ---
 
