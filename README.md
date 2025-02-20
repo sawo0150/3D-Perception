@@ -88,7 +88,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | 2025/06/02 |  | TBD |
 | 2025/06/11 | **The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (???)** | TBD |
 </div>
-<sub>*모든 구성원이 동의 한다면 시간 조정가능 합니다.</sub>
+<sub>*모든 구성원이 동의 한다면 시간 조정 가능합니다.</sub>
 
 <sub>**PseudoCon과 Magical Week는 가짜연구소 행사이므로 해당 주간은 스터디를 진행하지 않습니다!</sub>
 
