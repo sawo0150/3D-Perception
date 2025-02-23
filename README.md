@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 ## 🌟 프로젝트 개요
 ### 1️⃣ Study: BEV Representation
 - 2D 이미지 feature를 3D BEV로 projection 하는 방법에 대한 스터디
-- 3D Perception task(3D Detection, Map segmentation)에 적용하는 방법 스터디
+- 3D Perception task(3D Detection, Map Segmentation, Occupancy Prediction)에 적용하는 방법 스터디
 
 ### 2️⃣ Sharing: Blog or Youtube
 - 스터디 발표 유튜브 or 블로그로 남기기
