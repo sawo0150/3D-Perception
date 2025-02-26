@@ -107,7 +107,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 ## 🌱 참여 안내
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
 
-참가 링크 : (2/19일 공개)
+🔗 [신청 링크](https://pseudo-lab.com/19c963ffa3ee81a2bcacebc7ef2c30d7) 🔗 [계획표 링크](https://pseudo-lab.com/d16a59aa6f3847a092f8d55b89279b0a)
 
 - 🚘 **자율주행 or 컴퓨터 비전 분야에 관심이 있는 분을 찾습니다!** 🚘
 - 👨‍💻 **코딩 경험이 있다면 알려주세요!** 👨‍💻
