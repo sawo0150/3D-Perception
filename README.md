@@ -101,25 +101,8 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 
 
-<!--## 💡 학습 자원 (Learning Resources)
-**우리가 만든 지식 허브**  
-- Youtube(준비중)
-- Blog-->
-
----
-
-## 🌱 참여 안내
-**모집이 마감되었습니다!**  
-
-- 🚘 **자율주행 or 컴퓨터 비전 분야에 관심이 있는 분을 찾습니다!** 🚘
-- 👨‍💻 **코딩 경험이 있다면 알려주세요!** 👨‍💻
-  - linux, python, pytorch, mmcv 사용 경험이 있으면 좋습니다.
-  - 컴퓨터 비전 연구 경험도 좋습니다.
-- 🖥️ **사용할 수 있는 워크스테이션이 있다면 알려주세요!** 🖥️
-  - 프로젝트 협업 가능 여부를 파악하기 위함입니다.
-  - 만일 linux 기반 워크스테이션이 없으시면 제가 구해보겠습니다...
-
-<!-- **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-?? 채널로 입장
-2. Magical Week 중 행사에 참가
-3. Pseudo Lab 행사에서 만나기 -->
+<h2>Contributors 😃</h2>
+<a href="https://github.com/Pseudo-Lab/3D-Perception/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/3D-Perception" />
+</a>
+<br><br>
