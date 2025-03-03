@@ -44,10 +44,6 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 - CVPR 챌린지 참가하며 BEV representation을 직접 구현
 - Linux 환경에서 Python, Pytorch를 이용하여 프로젝트 진행
 
-<sub>*참여하는 챌린지는 OT에서 공개할 예정입니다.</sub>
-
-<sub>**대회 리스트에 Perception task가 없어 End-to-end task로 참가할 예정입니다.</sub>
-
 ---
 
 
@@ -74,7 +70,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 ## 📅 주차별 활동
 - 장소: PseudoLab Discord Room-YL
-- 시간: 월요일 21시*
+- 시간: 월요일 21시
 <div align="center">
 
 | 날짜 | 내용 | 발표자 | 에디터 |
@@ -95,9 +91,6 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | 2025/06/02 |  | TBD | TBD |
 | 2025/06/11 | **The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (???)** | TBD | TBD |
 </div>
-<sub>*모든 구성원이 동의 한다면 시간 조정 가능합니다.</sub>
-
-
 
 <sub>**PseudoCon과 Magical Week는 가짜연구소 행사이므로 해당 주간은 스터디를 진행하지 않습니다!</sub>
 
