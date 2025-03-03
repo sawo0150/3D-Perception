@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | **Member** | 김형균 | Remote Sensing / Computer Vision | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeongkyun-kaden-kim/) |
 | **Member** | 김민지 | SLAM/Tracking | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-ji-kim-262212251/) [![Homepage](https://img.shields.io/badge/Homepage-orange)](https://enddl3224.tistory.com/) |
 | **Member** | 최우창 | Physics Informed Neural Network | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/woochangchoi/) |
-| **Member** | Your name | Anything | |
+| **Member** | 민성재 | 자율주행/Computer Vision |[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msjae/) |
 | **Member** | Your name | Anything | |
 | **Member** | Your name | Anything | |
 | **Member** | Your name | Anything | |
