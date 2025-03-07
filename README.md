@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 
 ### 2️⃣ Sharing: Blog or Youtube
 - 스터디 발표 유튜브 & 블로그로 남기기
-- 발표자 이외의 맴버는 질문과 논문에 대한 감상 남기기
+- 발표자 이외의 맴버는 논문에 대한 질문과 감상 남기기
 
 ### 3️⃣ Project: 2025 CVPR Challenge*
 
