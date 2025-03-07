@@ -32,8 +32,8 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 - 3D Perception task(3D Detection, Map Segmentation, Occupancy Prediction)에 적용하는 방법 스터디
 
 ### 2️⃣ Sharing: Blog or Youtube
-- 스터디 발표 유튜브 or 블로그로 남기기
-- 발표자 이외의 러너는 질문 하나씩 하기
+- 스터디 발표 유튜브 & 블로그로 남기기
+- 발표자 이외의 맴버는 질문과 논문에 대한 감상 남기기
 
 ### 3️⃣ Project: 2025 CVPR Challenge*
 
