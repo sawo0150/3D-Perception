@@ -5,7 +5,7 @@
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
 <a><img src="https://img.shields.io/badge/YouTube(TBD)-FF0000?&logo=YouTube&logoColor=white" alt="YouTube Channel"/></a>
-<a href="https://pseudo-lab.github.io/3D-Perception/"><img src="https://img.shields.io/badge/Blog-181717" alt="Blog"/></a>
+<a href="https://pseudo-lab.github.io/3D-Perception/"><img src="https://img.shields.io/badge/Blog-181717?logo=github" alt="Blog"/></a>
 
 <a href="https://github.com/Pseudo-Lab/3D-Perception/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/3D-Perception?style=social" alt="Stars Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/3D-Perception/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/3D-Perception?style=social" alt="Forks Badge"/></a>
