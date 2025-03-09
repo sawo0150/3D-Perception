@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | **Member** | 민성재 | 자율주행/Computer Vision |[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msjae/) |
 | **Member** | 김주영 | Gait Recognition/Computer Vision | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juyoung-kim-458162354/) [![Homepage](https://img.shields.io/badge/Homepage-orange)](https://stitch-buffalo-6af.notion.site/1add47cf711d800ab32bebfd2e0c8563) |
 | **Member** | 박상원 | 자율주행 / Robotics |[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangwonpark0112/) |
-| **Member** | Your name | Anything | |
+| **Member** | 김경준 | Multimodal / Robotics | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyongjun-kim-5ba04a209/) |
 | **Member** | Your name | Anything | |
 
 </div>
