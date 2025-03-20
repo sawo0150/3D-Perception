@@ -186,6 +186,7 @@
         data-input-position="{{ site.comments.giscus.input_position | default: 'bottom' }}"
         data-theme="{{ site.comments.giscus.theme | default: 'light' }}"
         data-lang="{{ site.comments.giscus.lang | default: 'en' }}"
+        {% if site.comments.giscus.lazy %}data-loading="lazy"{% endif %}
         crossorigin="anonymous"
         async>
       </script>
