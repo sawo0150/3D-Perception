@@ -21,7 +21,7 @@ title                    : "3D Perception for Autonomous Driving"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "10th Pseudo Lab 3D Perception Team"
-description              : "🚘 가짜연구소 10기 '3D perception for Autonomous Driving'."
+description              : "PseudoLab 3D Perception Project blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "🚘 가짜연구소 10기 '3D perception'."
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are **amazing** team."
+  name             : "PseudoLab 3D Perception"
+  avatar           : "/assets/images/pseudolab.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "We are a project team from PseudoLab, the largest AI community in South Korea."
   location         : "South Korea"
   email            :
   links:
@@ -326,5 +326,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
