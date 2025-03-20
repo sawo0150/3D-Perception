@@ -48,6 +48,7 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
+    repo                 : "Pseudo-Lab/3D-Perception"
     repo_id              : "R_kgDON2ZNqw" # Shown during giscus setup at https://giscus.app
     category_name        : "General" # Full text name of the category
     category_id          : "DIC_kwDON2ZNq84CoQyG" # Shown during giscus setup at https://giscus.app
