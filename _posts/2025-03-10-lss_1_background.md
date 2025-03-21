@@ -2,7 +2,6 @@
 layout: single
 title: "[논문리뷰] LSS 1부 Lift, Splat, Shoot의 배경"
 editor: 차수연
-mathjax: true
 comments: true
 ---
 
@@ -27,8 +26,11 @@ Lift, Splat, Shoot 방법은 이러한 arbitrary camera rigs에서 얻은 이미
 ## 1-2 Integral Image란?
 
 입력 영상의 픽셀 값을 누적하여 특정 직사각형 영역의 합을 빠르게 계산할 수 있는 데이터 구조를 의미한다. 특정 영역의 합을 단순히 몇 번의 덧셈으로 효율적으로 구할 수 있다. 예를 들어, 직사각형 영역 내의 픽셀 합은 해당 영역의 네 꼭짓점에서 계산된 누적값들을 조합하여 빠르게 구할 수 있다.
-<iframe width="560" height="315" src="https://youtu.be/5ceT8O3k6os" frameborder="0" allowfullscreen> </iframe>
 
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/5ceT8O3k6os" 
+  frameborder="0" allowfullscreen>
+</iframe>
 
 이 영상을 참고로 이해할 수 있다.
 
@@ -48,11 +50,11 @@ Lift, Splat, Shoot 방법은 이러한 arbitrary camera rigs에서 얻은 이미
 1. Extrinsic Translation
     - 카메라의 외부 파라미터(Extrinsic Parameters) 중 하나로, 카메라의 위치(위치 변화, Translation) 를 의미함
     - 보통 3D 공간에서의 카메라의 이동을 나타내는 벡터 $t$로 표현됨
-    - 일반적으로 \(t = [t_x, t_y, t_z]^{T}\)형태이며, 카메라의 원점이 기준 좌표계에서 어떻게 이동했는지를 나타냄
+    - 일반적으로 $t = [t_x, t_y, t_z]^{T}$형태이며, 카메라의 원점이 기준 좌표계에서 어떻게 이동했는지를 나타냄
     - 카메라가 왼쪽 (-$x$ 방향), 위(+$y$ 방향), 앞(+$z$ 방향)으로 10cm씩 이동하면 $t=[-10, 10, 10]$으로 표현함
 1. Extrinsic Rotation
     - 카메라의 외부 파라미터(Extrinsic Parameters) 중 하나로, 카메라의 회전(Orientation, Rotation)을 의미함
-    - 보통 3x3 회전 행렬($R)$ 또는 3D 회전 벡터($\theta$)로 표현됨
+    - 보통 3x3 회전 행렬($R$) 또는 3D 회전 벡터($\theta$)로 표현됨
     - 카메라가 오른쪽으로 90도 회전하면, 회전 행렬 $R$이 $y$축을 중심으로 변환됨
 1. Image Permutation
     - Permutation(순열)은 픽셀의 위치를 임의로 변경하는 변환을 의미함
@@ -141,7 +143,7 @@ BEV 공간에서 다양한 경로 후보를 Shooting하여 각 경로의 안전�
 
 LSS는 여러 카메라의 2D 이미지를 효과적으로 3D BEV Representation으로 변환하고, 이를 직접 자율주행 태스크와 연결하는 end-to-end 구조를 제공한다. 여기까지 이 논문의 컨셉을 preview 했다고 봐주시면 좋을 것 같다.
 
-## **Frustum-shape Point Cloud**
+## 2-1 Frustum-shape Point Cloud
 
 Frustum은 절두체란 이름으로 입체를 절단하는 하나나 두 평행면 사이의 부분이라는 정의를 갖고 있다.
 
@@ -169,13 +171,13 @@ Frustum과 BEV 개념을 처음 접하면 되게 생소하게 다가오는데, F
 
 다시 정리하면 2D 이미지를 입력으로 받아 깊이 추정(Depth Estimation)을 통해 Frustum-shaped Point Cloud를 생성하였고, 이는 객체 탐지 또는 BEV Presentation 생성에 사용된다.
 
-## **Trajectories(궤적)이란?**
+## 2-2 Trajectories(궤적)이란?
 
 자율 주행 차량이나 객체가 이동하는 경로를 의미하는데, 어떤 차량이 특정 시점부터 미래의 몇 초 동안 어디로 움직일지 예측하는 것을 의미한다. 자율 주행에서는 차량이 올바르게 주행하기 위해 최적의 trajectory를 찾는 것이 중요한데, 이를 motion planning(경로 계획)이라고 한다.
 
 모델은 여러 개의 가능한 trajectory 후보들을 생성하고, 그중 최적의 경로를 선택한다. 가장 안전하고 효율적인 경로 선택하는 것이 중요하기에 미리 정의된 다양한 궤적 중에서 하나를 선택하는 방식을 사용한다.
 
-## **Template Trajectory란?**
+## 2-3 Template Trajectory란?
 
 Template Trajectory는 미리 정의된 고정된 궤적(trajectory)을 의미한다.
 
@@ -188,21 +190,21 @@ Template Trajectory는 미리 정의된 고정된 궤적(trajectory)을 의미�
 
 이 있다.
 
-### **왜 Template Trajectory를 사용할까?**
+### 2-4 왜 Template Trajectory를 사용할까?
 
 자율주행 차량이 완전히 새로운 궤적을 매번 생성하면 계산량이 너무 많아지고 예측이 불안정할 수 있기 때문이다. 따라서 미리 만들어진 여러 개의 가능한 궤적 중에서 하나를 선택하는 방식이 더 효율적이고 안정적으로 볼 수 있는데, 이는 마치 운전자가 운전할 때 미리 정해진 길 중 하나를 선택해서 가는 것과 비슷하다.
 
-## **Expert Trajectory란?**
+## 2-5 Expert Trajectory란?
 
 Expert Trajectory(전문가 궤적)는 실제 사람이 운전한 데이터에서 얻은 "이상적인" 궤적을 의미한다. 경험이 많은 운전자가 최적의 경로를 따라갔다면, 그 경로를 모델이 학습하도록 하는 것이다.
 
 학습 데이터에 사람이 직접 운전한 궤적(trajectory)이 있으면, 모델은 이 expert trajectory를 학습하면서, 최적의 주행 경로를 예측하도록 훈련된다. 따라서 모델이 나중에 자율주행을 할 때, 사람이 했던 운전 패턴을 참고해서 가장 자연스러운 궤적을 선택한다.
 
-### **왜 Expert Trajectory를 사용할까?**
+### 2-6 왜 Expert Trajectory를 사용할까?
 
 모델이 학습할 때 완전히 랜덤한 궤적을 따르는 것이 아니라 실제 사람이 운전한 궤적을 기준으로 배우기 때문이고, 모델이 자율주행을 할 때 보다 자연스럽고 안전한 주행 경로를 선택할 수 있다.
 
-## **Trajectory Prediction 방식 비교 (Template vs. 직접 생성)**
+## 2-7 Trajectory Prediction 방식 비교 (Template vs. 직접 생성)
 
 위에서 설명했듯, 자율주행에서 경로 예측(trajectory prediction)을 하는 방법은 크게 두 가지로 나뉜다.
 
@@ -213,7 +215,7 @@ Expert Trajectory(전문가 궤적)는 실제 사람이 운전한 데이터에�
 
 LSS 논문에서는 Template Trajectory 방식을 사용하여 모델이 미리 정의된 Trajectory 중에서 가장 적절한 것을 선택하는 방식으로 Motion Planning을 수행한다. 결국 Fixed Template Trajectory도 classification의 Task라 볼 수 있으며, 이 과정 또한 미리 정의된 Trajectory 후보들 중에서 가장 적절한 것을 고르는 것이므로 분류(Classification) 문제로 변환하여 Cost map을 정의하여 최적화하며 학습한다.
 
-## **Oracle이란?**
+## 2-8 Oracle이란?
 
 Oracle은 실험에서 "항상 올바른 답을 제공하는 가상의 존재"를 의미한다. Oracle 실험은 실제 시스템과 시스템의 특정 구성 요소가 항상 올바르게 작동한다고 가정했을 때의 성능을 비교하는 데 사용된다.
 
