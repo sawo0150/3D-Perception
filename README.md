@@ -78,12 +78,12 @@ https://user-images.githubusercontent.com/27915819/161392594-fc0082f7-5c37-4919-
 | 2025/03/03 | OT | 조경호 | |
 | 2025/03/10 | [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D](https://arxiv.org/abs/2008.05711) | 조경호 | 차수연 |
 | 2025/03/17 | [Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/abs/2206.07959) | 민성재 | 김주영 |
-| 2025/03/24 | ✨Magical Week✨ |  | |
+| 2025/03/29 | ✨Magical Week✨ |  | |
 | 2025/03/31 | [BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View](https://arxiv.org/abs/2112.11790) | 박민서 | 김경준 |
 | 2025/04/07 | [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) | 박상원 | 김민지 |
 | 2025/04/14 | [BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270) | 김형균 | 박상원 |
 | 2025/04/21 | [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/abs/2206.01256) | 김주영 | 조경호 |
-| 2025/04/28 | ✨Magical Week✨ |  | |
+| 2025/04/26 | ✨Magical Week✨ |  | |
 | 2025/05/05 | [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/abs/2312.00703) | 차수연 | 최우창 |
 | 2025/05/17 | 🎉Pseudo Conference🎉 |  | |
 | 2025/05/19 | [FB-BEV: BEV Representation from Forward-Backward View Transformations](https://arxiv.org/abs/2308.02236) | 김경준 | 박민서 |
