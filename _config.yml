@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "PseudoDriveLab"
-  avatar           : "/assets/images/PseudoDriveLab.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/PseudoDriveLab.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "가짜연구소 10기 3D Perception team의 저장소입니다."
   location         : "South Korea"
   email            :
